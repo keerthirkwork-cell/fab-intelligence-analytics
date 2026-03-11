@@ -69,7 +69,7 @@ fab_intelligence/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/fab-intelligence-analytics.git
+git clone https://github.com/keerthirkwork-cell/fab-intelligence-analytics.git
 cd fab-intelligence-analytics
 
 # 2. Install dependencies
